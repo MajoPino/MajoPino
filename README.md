@@ -2,7 +2,8 @@
 <p>I'm currently a software engineer at <strong>Riwi</strong>. I am working on some personal projects, learning a couple new things, and trying to improve as much as I can.</p>
 <br>
 <p>😺 Cats will rule the world! 😺</p>
-<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=790b7611c7ipme8vje5kz967h495e26t4f4oukcrwmtza55t&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<br>
+<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=790b7611c7ipme8vje5kz967h495e26t4f4oukcrwmtza55t&ep=v1_gifs_search&rid=giphy.gif&ct=g" height:"300px" width:"300px" />
 <h2>⚡️ A Few Quick Things About me</h2>
 <ul>
 <li>🧐 Learning about <strong>Software Development</strong> at <strong>Riwi</strong></li>
