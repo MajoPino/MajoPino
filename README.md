@@ -4,6 +4,7 @@
 <p>😺 Cats will rule the world! 😺</p>
 <br>
 <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=790b7611c7ipme8vje5kz967h495e26t4f4oukcrwmtza55t&ep=v1_gifs_search&rid=giphy.gif&ct=g" height:"300px" width:"300px" />
+<br>
 <h2>⚡️ A Few Quick Things About me</h2>
 <ul>
 <li>🧐 Learning about <strong>Software Development</strong> at <strong>Riwi</strong></li>
